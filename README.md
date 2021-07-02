@@ -1,7 +1,4 @@
-# IOCs
-
-IOC's from the Uptycs Threat Research Blogs
-
+# Uptycs Threat Intelligence and Research
 
 The Uptycs platform enable a unified view for fleet visibility, intrusion detection, vulnerability management and compliance across Linux, macOS, Windows, containers, and cloud workloads. Uptycs collects, aggregates and analyzes your endpoint telemetry and, using SQL, transforms it into dashboards, reports and alerts that enable teams of any size to develop a continuous and proactive security posture.
 
