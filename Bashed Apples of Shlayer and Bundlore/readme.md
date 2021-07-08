@@ -1,2 +1,4 @@
 Shlayer and Bundlore are usually malvertising-focused adware bundlers using shell scripts in the kill chain to download and install an adware payload. These malware are the most predominant malware in macOS, also with a history of evading and bypassing the built-in Xprotect, Gatekeeper, Notarization and File Quarantine security features of macOS.
 The installers are usually macOS disk image files (DMG) that are distributed via compromised Google search results or downloaded from websites with poor reputation (like cracks, keygens). Upon installation, the disk image mounts thereby initiating the bash shell script installation
+
+For more details about the different variants and the macOS utilities used by Shlayer and Bundlore, please visit - https://www.uptycs.com/blog/macos-bashed-apples-of-shlayer-and-bundlore
