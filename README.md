@@ -4,4 +4,4 @@ The Uptycs platform enable a unified view for fleet visibility, intrusion detect
 
 The Uptycs threat intelligence and research team proactively monitors the latest threats, APT's, TTP’s (Tactics, Techniques and Procedures) used by threat actors and provides a robust platform for detection and response for its users. 
 
-For more details, please visit - https://www.uptycs.com/blog
+For more details on our research, please visit - https://www.uptycs.com/blog
