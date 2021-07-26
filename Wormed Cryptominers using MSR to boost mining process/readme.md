@@ -1,1 +1,3 @@
 Uptycs threat research team recently observed cryptominer binaries using the MSR(Model specific Register) driver to disable hardware prefetchers and increase the speed of the mining process by 15%. The binaries of this Golang based wormed crypto-miner we analysed was targeting vulnerable *nix servers and exploits known vulnerabilities in popular web servers in order to spread the miner. 
+
+For more details about thes uage of MSR to disable hardware prefetchers in cryptomining malwares, please visit -
